@@ -602,7 +602,7 @@ For the purposes of this section, the [[#tld.include|include/]] and
 named as such because they contain the primary "source files" of the source
 language (C and/or C++).
 
-No non-source-code files will should be placed *or generated* in any
+No non-source-code files should be placed *or generated* in any
 subdirectories of a source directory. That is, the root of a source directory
 may contain non-source-code files, but no child directories should.
 
